@@ -19,7 +19,7 @@
     "@react-navigation/drawer": "^5.0.5",
     "@react-navigation/native": "^5.0.3",
     "@react-navigation/stack": "^5.0.3",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "immutable": "^4.0.0-rc.12",
     "jetifier": "^1.6.5",
     "moment": "^2.24.0",
